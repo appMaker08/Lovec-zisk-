@@ -1,0 +1,6 @@
+{
+  "name": "Lovec Zisku",
+  "description": "Systém pro vyhledávání a analýzu podhodnocených a nefunkčních produktů k opravě a přeprodeji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
